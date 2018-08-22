@@ -1,0 +1,16 @@
+{
+  "name": "Tagger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MichaelMitch/Tagger.git",
+  "author": "MichaelMitch <michael.j.mitchelson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "react": "^16.4.2",
+    "react-native": "^0.56.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  }
+}
